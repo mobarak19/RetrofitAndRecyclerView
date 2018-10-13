@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Retrofit And RecyclerView</string>
+
+
+    <string-array name="country">
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Bhutan</item>
+        <item>Nepal</item>
+        <item>Nepal</item>
+        <item>Nepal</item>
+        <item>Nepal</item>
+        <item>Nepal</item>
+        <item>Nepal</item>
+        <item>Nepal</item>
+        <item>Nepal</item>
+        <item>Srilanka</item>
+        <item>Srilanka</item>
+        <item>Srilanka</item>
+        <item>Srilanka</item>
+        <item>Srilanka</item>
+        <item>Srilanka</item>
+        <item>Srilanka</item>
+
+        </string-array>
+</resources>
